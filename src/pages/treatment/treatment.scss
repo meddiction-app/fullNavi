@@ -1,0 +1,14 @@
+page-treatment {
+
+}
+
+iframe{
+    height:calc(100vh - 4px);
+    width:calc(100vw - 4px);
+    border:0;
+    top:0;
+    left:0;
+    position: absolute;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
